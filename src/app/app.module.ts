@@ -13,7 +13,7 @@ import { AuthModule } from './auth/auth.module';
 @NgModule({
   declarations: [
     AppComponent,
-    Notfound404Component,
+    Notfound404Component
   ],
   imports: [
     BrowserModule,
